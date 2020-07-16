@@ -116,7 +116,7 @@ venv.bak/
 
 
 #key
-config.py
+api_keys.py
 
 # Rope project settings
 .ropeproject
