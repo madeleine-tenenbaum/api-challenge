@@ -114,6 +114,10 @@ venv.bak/
 .spyderproject
 .spyproject
 
+
+#key
+config.py
+
 # Rope project settings
 .ropeproject
 
